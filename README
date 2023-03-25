@@ -1,0 +1,4 @@
+Usage: This docker file is a script file to build and create the Linux enviroment
+Step 1: Build the docker image: docker build -t testimage:1.0 
+Step 2: Get the image and login in Linux enviroment
+Step 3: Install package if needed (optional) 
